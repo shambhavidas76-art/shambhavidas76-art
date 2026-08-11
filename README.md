@@ -1,48 +1,32 @@
-# 👋 Hi, I'm Shambhavi!
+name: generate snake animation
 
-### 💻 CSE Student | 🚀 Developer | 🤖 AI Explorer
+on:
+  schedule:
+    - cron: "0 */24 * * *"   # runs once a day
+  workflow_dispatch:          # lets you trigger it manually
+  push:
+    branches:
+      - main
 
-I love turning ideas into projects and learning by building.
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
----
+      - name: generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-## 🛠️ Tech I'm Exploring
+      - name: push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-☕ Java • 🐍 Python • 🌐 Web Development • 🤖 AI • 🧠 DSA
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🛒 Price Comparison | Compare products across multiple platforms |
-| 🤖 AI Project | AI-powered application |
-| 🎮 Mini Game | Interactive browser game |
-| 🚀 Hackathon Project | Problem-solving project |
-
----
-
-## 🐍 My Contribution Snake
-
-![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🎮 Play My Game
-
-[![Play Game](assets/game-preview.gif)](YOUR_GAME_LINK)
-
----
-
-### ✨ Currently
-
-Learning → Building → Experimenting → Improving
