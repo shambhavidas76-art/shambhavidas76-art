@@ -1,33 +1,31 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00D4FF&height=220&section=header&text=Hey%20There,%20I'm%20Shambhavi&fontSize=40&fontColor=ffffff&animation=twinkling)
+![Header](https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/banner.svg)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Curious+about+how+tech+works+%F0%9F%9A%80;Turning+curiosity+into+code+%F0%9F%92%BB;Future+Engineer+in+the+making+%E2%9C%A8;Powered+by+chai+%26+chaos+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF2E9A&center=true&vCenter=true&width=700&lines=I'm+Shambhavi+%E2%80%94+future+engineer+%F0%9F%9A%80;I+love+turning+ideas+into+working+code+%F0%9F%92%BB;Always+curious%2C+always+building+%E2%9C%A8;Tech+is+my+playground+%F0%9F%92%97)](https://git.io/typing-svg)
 
 </div>
 
 I'm driven by an endless curiosity for how technology shapes the world — and an even bigger drive to build it myself. ⚡
 Every project is a step closer to becoming the engineer I'm aiming to be. 🌱
 
-<table align="center">
-<tr>
-<td><img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="260"></td>
-<td><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="260"></td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3c-b5c5-e97829321a67.gif" width="500">
+<img src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif" width="420">
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF0080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shambhavi-d-ba56093a1/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shambhavidas76-art)
+[![LinkedIn](https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/linkedin-badge.svg)](https://www.linkedin.com/in/shambhavi-d-ba56093a1/)
+[![GitHub](https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/github-badge.svg)](https://github.com/shambhavidas76-art)
+
+</div>
+
+<div align="center">
+
 ![Visitors](https://img.shields.io/badge/dynamic/json?color=00D4FF&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/shambhavidas76-art/profile-views&style=for-the-badge)
 
 </div>
@@ -71,6 +69,29 @@ Every project is a step closer to becoming the engineer I'm aiming to be. 🌱
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shambhavidas76-art&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+### 📈 Detailed Stats
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavidas76-art&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shambhavidas76-art&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shambhavidas76-art&theme=github_dark&utcOffset=5.5" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shambhavidas76-art&theme=github_dark" />
+
 </div>
 
 ---
