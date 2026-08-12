@@ -13,19 +13,13 @@
 CSE Student | 🧠 Constant Learner | 🛠️ Builder
 
 <div align="center">
-<img src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif" width="420">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/linkedin-badge.svg)](https://www.linkedin.com/in/shambhavi-d-ba56093a1/)
 [![GitHub](https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/github-badge.svg)](https://github.com/shambhavidas76-art)
-
-</div>
-
-<div align="center">
-
-![Visitors](https://img.shields.io/badge/dynamic/json?color=00D4FF&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/shambhavidas76-art/profile-views&style=for-the-badge)
 
 </div>
 
@@ -76,19 +70,6 @@ CSE Student | 🧠 Constant Learner | 🛠️ Builder
 <div align="center">
 
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavidas76-art&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shambhavidas76-art&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shambhavidas76-art&theme=github_dark&utcOffset=5.5" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shambhavidas76-art&theme=github_dark" />
 
 </div>
 
