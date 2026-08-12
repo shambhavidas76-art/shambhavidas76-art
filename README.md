@@ -10,8 +10,7 @@
 
 </div>
 
-I'm driven by an endless curiosity for how technology shapes the world — and an even bigger drive to build it myself. ⚡
-Every project is a step closer to becoming the engineer I'm aiming to be. 🌱
+CSE Student | 🧠 Constant Learner | 🛠️ Builder
 
 <div align="center">
 <img src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif" width="420">
@@ -63,7 +62,6 @@ Every project is a step closer to becoming the engineer I'm aiming to be. 🌱
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shambhavidas76-art&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavidas76-art&theme=radical&hide_border=true" />
 
 </div>
 
