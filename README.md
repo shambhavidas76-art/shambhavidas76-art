@@ -54,24 +54,10 @@ CSE Student | 🧠 Constant Learner | 🛠️ Builder
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shambhavidas76-art&show_icons=true&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shambhavidas76-art&theme=react-dark&hide_border=true" />
 </div>
 
----
 
-### 📈 Detailed Stats
-
-<div align="center">
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavidas76-art&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-</div>
 ---
 
 ### 🐍 Contribution Snake
