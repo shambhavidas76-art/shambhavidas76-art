@@ -75,14 +75,6 @@ CSE Student | 🧠 Constant Learner | 🛠️ Builder
 
 ---
 
-### 🏆 Trophy Cabinet
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shambhavidas76-art&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
