@@ -13,7 +13,7 @@
 CSE Student | 🧠 Constant Learner | 🛠️ Builder
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/coder-frame.svg" width="480">
+<img src="https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/coder-illustration.png" width="480">
 </div>
 
 <div align="center">
@@ -72,15 +72,6 @@ CSE Student | 🧠 Constant Learner | 🛠️ Builder
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavidas76-art&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
-
----
-
-### 🏆 Trophy Cabinet
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shambhavidas76-art&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
 ---
 
 ### 🐍 Contribution Snake
