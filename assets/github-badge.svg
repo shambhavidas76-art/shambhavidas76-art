@@ -1,0 +1,19 @@
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ggrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#7928ca"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="312" height="72" rx="18" fill="#1a0b2e" stroke="url(#ggrad)" stroke-width="3">
+    <animate attributeName="stroke-width" values="3;6;3" dur="1.8s" repeatCount="indefinite" begin="0.4s"/>
+  </rect>
+  <rect x="4" y="4" width="312" height="72" rx="18" fill="none" stroke="#00e5ff" stroke-width="1" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="1.8s" repeatCount="indefinite" begin="0.4s"/>
+  </rect>
+  <g transform="translate(38,40)">
+    <circle r="20" fill="url(#ggrad)"/>
+    <path d="M0,-11 C-6,-11 -11,-6 -11,0 C-11,5 -8,9 -3,10 C-2,10 -2,10 -2,9 L-2,6 C-6,7 -7,4 -7,4 C-7,3 -8,2 -8,2 C-9,1 -8,1 -8,1 C-7,1 -6,2 -6,2 C-5,4 -3,3 -2,3 C-2,2 -1,1 -1,1 C-4,1 -6,0 -6,-3 C-6,-4 -6,-5 -5,-6 C-5,-6 -6,-8 -5,-9 C-5,-9 -3,-9 -2,-7 C-1,-8 1,-8 2,-7 C3,-9 5,-9 5,-9 C6,-8 5,-6 5,-6 C6,-5 6,-4 6,-3 C6,0 4,1 1,1 C2,2 2,3 2,5 L2,9 C2,10 2,10 3,10 C8,9 11,5 11,0 C11,-6 6,-11 0,-11 Z" fill="#1a0b2e"/>
+  </g>
+  <text x="80" y="48" font-family="Trebuchet MS, sans-serif" font-size="28" font-weight="800" fill="#ffffff">GitHub</text>
+</svg>
