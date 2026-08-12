@@ -13,7 +13,7 @@
 CSE Student | 🧠 Constant Learner | 🛠️ Builder
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/coder-illustration.png" width="480">
+<img src="https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/coder-frame.svg" width="480">
 </div>
 
 <div align="center">
