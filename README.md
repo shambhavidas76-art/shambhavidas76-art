@@ -8,15 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF2E9A&center=true&vCenter=true&width=700&lines=I'm+Shambhavi+%E2%80%94+future+engineer+%F0%9F%9A%80;I+love+turning+ideas+into+working+code+%F0%9F%92%BB;Always+curious%2C+always+building+%E2%9C%A8;Tech+is+my+playground+%F0%9F%92%97)](https://git.io/typing-svg)
 
-</div>
 
-CSE Student | 🧠 Constant Learner | 🛠️ Builder
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/coder-illustration.png" width="480">
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/linkedin-badge.svg)](https://www.linkedin.com/in/shambhavi-d-ba56093a1/)
 [![GitHub](https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/github-badge.svg)](https://github.com/shambhavidas76-art)
