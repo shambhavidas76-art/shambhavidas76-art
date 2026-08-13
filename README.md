@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/typing-coder.svg" width="480">
+<img src="https://raw.githubusercontent.com/shambhavidas76-art/shambhavidas76-art/main/assets/typing-coder-v2.svg" width="480">
 </div>
 
 <div align="center">
